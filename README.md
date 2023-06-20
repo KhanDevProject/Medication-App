@@ -6,7 +6,7 @@
 
 → In progress: For now, it is a very simple and basic graphical user interface can be used in Desktop. However, this will be improving into a more modern design for both Apps/Website. 
 
-→ A user-friendly and simple GUI Medication Tracker App that helps users manage and keep track of their medications by providing reminders, dosage instructions, and a record of their medication history.
+→ A user-friendly and simple GUI Medication Tracker App that helps users manage and keep track of their medications by providing reminders with modern notification, dosage instructions, and a record of their medication history.
 
 →  Users can stay on top of their medication routines. They can set reminders for specific times or recurring intervals, ensuring they never miss a dose
 
