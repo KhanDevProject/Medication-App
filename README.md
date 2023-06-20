@@ -1,5 +1,7 @@
 # Medication Tracker (Health-Based) Application 
 
+→ If you want to try a > DEMO < Download the zip folder, go into EXE file, and open up **login_first.exe**     ←
+
 → Develop using Python and latest techonlogies and modules 
 
 → In progress: For now, it is a very simple and basic graphical user interface can be used in Desktop. However, this will be improving into a more modern design for both Apps/Website. 
