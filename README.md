@@ -1,10 +1,14 @@
 # Medication Tracker (Health-Based) Application 
+To run the program(s):
+* Download the repo
+* Ensure you have python 2 or 3 
+* Run python[x] login_first.py, where x can either be "" (nothing) or 3 (python 3)
+* You can also go into `EXE` file, and open up `login_first.exe`
+* Enjoy!
 
-→ If you want to try a > DEMO < Download the zip folder, go into EXE file, and open up **login_first.exe**     ←
+# About the application
 
-→ Develop using Python and latest techonlogies and modules 
-
-→ In progress: For now, it is a very simple and basic graphical user interface can be used in Desktop. However, this will be improving into a more modern design for both Apps/Website. 
+→ Developed using Python and latest techonlogies and modules 
 
 → A user-friendly and simple GUI Medication Tracker App that helps users manage and keep track of their medications by providing reminders with modern notification, dosage instructions, and a record of their medication history.
 
